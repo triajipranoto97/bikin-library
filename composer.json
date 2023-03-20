@@ -1,0 +1,17 @@
+{
+    "name": "triajip/bikin-composer-library",
+    "description": "Belajar bikin library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Triajip\\BikinComposerLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tri Aji",
+            "email": "3ajipranoto@gmail.com"
+        }
+    ],
+    "require": {}
+}
